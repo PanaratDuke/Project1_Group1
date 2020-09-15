@@ -1,4 +1,7 @@
-# Project1_Group1
+# Project Proposes:
+Team effort
+*Before anything, remember that Projects are a group effort: Working closely with your teammates is a requirement. This both helps teach real-world collaborative workflows, and enables you to tackle more difficult problems than you'd be able to working alone.
+In other words, working in groups allows you to work smart and dream big. Take advantage of it!
 * Project 1, Group 1, for the January to July Cohort of the Data Analytics Boot Camp at Rice
 * Norman Gwinn | Panarat Duke | Michael Heitmann | Gini Arimbi
 
